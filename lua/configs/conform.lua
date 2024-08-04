@@ -4,6 +4,7 @@ local options = {
     scss = { "prettier" },
     html = { "prettier" },
     typescriptreact = { "prettier" },
+    markdown = { "prettier" },
   },
 
   -- format_on_save = {
