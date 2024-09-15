@@ -4,6 +4,7 @@ local options = {
     scss = { "prettier" },
     html = { "prettier" },
     typescriptreact = { "prettier" },
+    typescript = { "prettier" },
     markdown = { "prettier" },
     yaml = { "prettier" },
   },
